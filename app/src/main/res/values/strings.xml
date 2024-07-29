@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="btn_login">Log In</string>
+    <string name="registerTV">Sign Up! Click here</string>
+    <string name="forgotPassword">Forgot password?</string>
+    <string name="lbl_firstname">First Name</string>
+    <string name="lbl_lastname">Last Name</string>
+    <string name="channel_name">Location Tracking</string>
+    <string name="channel_description">Notification for location tracking</string>
+
+    <string name="lbl_email">Email</string>
+    <string name="lbl_password">Password</string>
+    <string name="lbl_confirmpassword">Confirm password</string>
+    <string name="idTVLogin">Already a User ? Login Here</string>
+    <string name="btn_add">Create User</string>
+    <string name="lbl_login_email">Email:</string>
+    <string name="lbl_login_password">Password:</string>
+</resources>
